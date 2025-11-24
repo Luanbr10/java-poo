@@ -25,8 +25,8 @@ O progresso é guiado por módulos sequenciais, garantindo domínio teórico e p
 
 ### 🔹 Módulo 1: Fundamentos de POO (A Base)
 - [x] Classes e Objetos (Conceitos de molde e instância)
-- [ ] Modificadores de Acesso (`public`, `private`, `protected`, `default`)
-- [ ] Encapsulamento, Getters e Setters
+- [x] Modificadores de Acesso (`public`, `private`, `protected`, `default`)
+- [x] Encapsulamento, Getters e Setters
 - [ ] Herança e Hierarquia de Classes (`extends`, `super()`)
 - [ ] Polimorfismo (Sobrescrita e Sobrecarga)
 - [ ] Abstração (Classes e Métodos Abstratos)
