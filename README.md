@@ -24,7 +24,7 @@ Este repositório documenta minha jornada intensiva de aprendizado em **Engenhar
 O progresso é guiado por módulos sequenciais, garantindo domínio teórico e prático antes de avançar.
 
 ### 🔹 Módulo 1: Fundamentos de POO (A Base)
-- [ ] Classes e Objetos (Conceitos de molde e instância)
+- [x] Classes e Objetos (Conceitos de molde e instância)
 - [ ] Modificadores de Acesso (`public`, `private`, `protected`, `default`)
 - [ ] Encapsulamento, Getters e Setters
 - [ ] Herança e Hierarquia de Classes (`extends`, `super()`)
