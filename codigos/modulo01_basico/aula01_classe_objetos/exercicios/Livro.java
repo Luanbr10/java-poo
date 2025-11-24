@@ -1,4 +1,4 @@
-package modulo01_fundamentos.aula01_classes_objetos.exercicios;
+package  codigos.modulo01_basico.aula01_classe_objetos.exercicios;
 
 public class Livro {
     String titulo;
