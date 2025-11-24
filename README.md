@@ -88,7 +88,7 @@ O progresso é guiado por módulos sequenciais, garantindo domínio teórico e p
 
 ## 📂 Organização dos Códigos
 
-O código fonte está organizado na pasta `/codigos`, separado por módulos e aulas específicas.
+O código fonte está organizado na pasta `/src`, separado por módulos e aulas específicas.
 
 ---
 *Desenvolvido por Luan durante a jornada de especialização em Java.* 
