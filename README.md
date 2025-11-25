@@ -27,7 +27,7 @@ O progresso é guiado por módulos sequenciais, garantindo domínio teórico e p
 - [x] Classes e Objetos (Conceitos de molde e instância)
 - [x] Modificadores de Acesso (`public`, `private`, `protected`, `default`)
 - [x] Encapsulamento, Getters e Setters
-- [ ] Herança e Hierarquia de Classes (`extends`, `super()`)
+- [x] Herança e Hierarquia de Classes (`extends`, `super()`)
 - [ ] Polimorfismo (Sobrescrita e Sobrecarga)
 - [ ] Abstração (Classes e Métodos Abstratos)
 - [ ] Interfaces e Implementações
